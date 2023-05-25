@@ -1,7 +1,7 @@
 %%%
 title = "SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)"
 abbrev = "sd-jwt vc"
-ipr = "none"
+ipr = "trust200902"
 workgroup = "TBD"
 keyword = ["security", "openid", "sd-jwt"]
 
